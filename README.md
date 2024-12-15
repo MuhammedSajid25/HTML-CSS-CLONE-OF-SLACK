@@ -6,6 +6,7 @@ This repository contains code for a responsive and modern Slack Website clone bu
 ## Table of Contents
 
 - [Description](https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK#description)
+- [Getting Started](https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK#getting-started)
 - [Features](https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK#features)  <!-- Add Features Section -->
 - [Technologies Used](https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK#technologies-used)
 - [Usage](https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK#usage)
@@ -73,7 +74,7 @@ Here are some key features of this Slack Website clone:
 
 ## Usage
 
-- Use this project to explore and understand how to create a responsive and modern web design using HTML and Tailwind CSS.
+- Use this project to explore and understand how to create a responsive and modern web design using HTML and CSS.
 - Experiment with the code to customize and improve the Slack Website clone.
 
 ---
