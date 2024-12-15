@@ -1,45 +1,54 @@
 # Slack Website Clone
-This repository contains code for a responsive and modern Slack Website clone built using HTML and Tailwind CSS. The clone is designed to be fully responsive, offering a seamless experience across different screen sizes.
+This repository contains code for a responsive and modern Slack Website clone built using HTML and CSS. The clone is designed to be fully responsive, offering a seamless experience across different screen sizes.
 
 ---
 
 ## Table of Contents
 
-- [Description](https://github.com/ManikMaity/Slack-Clone#description)
-- [Preview](https://github.com/ManikMaity/Slack-Clone#preview)
-- [Demo](https://github.com/ManikMaity/Slack-Clone#demo)
-- [Features](https://github.com/ManikMaity/Slack-Clone#features)  <!-- Add Features Section -->
-- [Technologies Used](https://github.com/ManikMaity/Slack-Clone#technologies-used)
-- [Usage](https://github.com/ManikMaity/Slack-Clone#usage)
-- [Contact](https://github.com/ManikMaity/Slack-Clone#contact)
+- [Description](https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK#description)
+- [Features](https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK#features)  <!-- Add Features Section -->
+- [Technologies Used](https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK#technologies-used)
+- [Usage](https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK#usage)
+- [Contact](https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK#contact)
 
 ---
 
 ## Description
 
-This project is a Slack Website clone, designed to mimic the appearance of the popular communication platform Slack's home page. It was built using HTML and Tailwind CSS, making it responsive for all devices and giving it a sleek and modern look.
+This project is a Slack Website clone, designed to mimic the appearance of the popular communication platform Slack's home page. It was built using HTML and CSS, making it responsive for all devices and giving it a sleek and modern look.
 
 ---
 
-## Preview
+## Getting Started
 
-### Desktop Preview
-https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK/assets/110734724/fd792caa-5566-49f3-b2d4-d6ac13fd33e1
+To view the "Slack Home Page UI" on your local machine, follow these steps:
 
-### Mobile Preview
-https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK/assets/110734724/40a1f638-2998-4847-82bc-055201a5e2fd
+### Clone the Repository
+
+Clone the repository to your local machine using the following command:
+
+```
+git clone https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-SLACK.git
+```
+
+
+### Navigate and Install Dependencies
+
+Navigate to the project directory:
+
+```
+cd HTML-CSS-CLONE-OF-SLACK
+```
+
+### Start the Application
+
+1. Open the `index.html` file.
+2. Right-click on the file and select "Open with Live Preview."
+3. This will launch a live preview of the website in your default web browser.
 
 ---
 
 
-
-## Demo
-
-[Link to Live Demo](https://muhammedsajid25.github.io/HTML-CSS-CLONE-OF-SLACK/)
-
-You can see the project in action by visiting the [live demo](https://muhammedsajid25.github.io/HTML-CSS-CLONE-OF-SLACK/).
-
----
 
 ## Features
 
